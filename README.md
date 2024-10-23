@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Martins! É muito bom ter você aqui!✨
 
-- 🌱 Estudando Web Desenvolvimento e Python
+- 🌱 <strong>Estudando Web Desenvolvimento e Python</strong>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMartinste&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMartinste&layout=compact)
@@ -17,4 +17,3 @@
   <a href="https://www.linkedin.com/in/matheus-martins-1a6385215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-!-[Snake animation](https://github.com/oMartinste/oMartinste/blob/output/github-contribution-grid-snake.svg)
